@@ -1,6 +1,11 @@
 # Import data into your neo4j database from the neo4j-shell command
 
+
 neo4j-shell-tools adds a bunch of commands to [neo4j-shell](http://docs.neo4j.org/chunked/stable/shell.html) which allow you to insert data into a running [neo4j](http://www.neo4j.org/) database without any hassle.
+
+### Neo4j 2.0 Support
+
+The support for Neo4j 2.0 lives in a [separate branch](https://github.com/jexp/neo4j-shell-tools/tree/20).
 
 ### Installation
 
